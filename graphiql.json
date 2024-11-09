@@ -1,3 +1,1 @@
-{
-  hello world;
-}
+\b(npm|@npm|yarn|@yarn|pypi|rubygems|gemfile|composer|sdk|javascript\.sdk|_metadata|@sentry|sentry\.javascript|analytics|gtm|google\.tagmanager|google\.analytics|newrelic|datadog|version|v\d+\.\d+\.\d+|v\d+\.\d+|pkg\.version|package\.version|dependencies|devDependencies|peerDependencies|require\s*\(\s*['"][^'"]+['"]\s*\)|import\s+['"][^'"]+['"]|from\s+['"][^'"]+['"]|registry\.npmjs\.org|pypi\.org|rubygems\.org|cdn\.jsdelivr\.net|cdnjs\.cloudflare\.com|unpkg\.com|core|utils|helpers|config|auth|api|client|base|Object\(W\.[a-z]\)|W\.[a-z]|\_\_webpack\_require\_\_|module\.exports|global|window|license|author|homepage|repository|description|keywords)\b
